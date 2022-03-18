@@ -8,7 +8,7 @@
   - Facebook에서 주최하는 대회
   - 8월에 시작
 - [LeetCode](https://leetcode.com/contest/)
-  - 격주 대회가 있음ㅣ
+  - 격주 대회가 있음
   - 자체 코인으로 보상
 - [Hackerrank](https://www.hackerrank.com/contests)
   - 다양한 타입의 대회가 있는 듯
